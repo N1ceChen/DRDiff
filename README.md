@@ -4,6 +4,7 @@ This is the implementation code for "Downscaling of satellite passive microwave 
 
 # Citation
 If you find this work useful, please cite:
+
 **Paper:** [Downscaling of satellite passive microwave brightness temperature through super-resolution reconstruction](https://doi.org/10.1016/j.rse.2026.115405)
 ```bibtex
 @article{CHEN2026115405,
