@@ -1,2 +1,2 @@
 # DRDiff
-The DRDiff code will be uploaded as soon as the paper is accepted.
+This code is for "Downscaling of satellite passive microwave brightness temperature through super-resolution reconstruction"
