@@ -2,7 +2,6 @@
 This is the implementation code for "Downscaling of satellite passive microwave brightness temperature through super-resolution reconstruction"
 
 # Project Structure
-```text
 DRDiff/
 ├── datasets.py             # Data preprocessing
 ├── diffusion/
