@@ -1,7 +1,8 @@
 # DRDiff
 This is the implementation code for "Downscaling of satellite passive microwave brightness temperature through super-resolution reconstruction"
 
-# Project Structure
+## Project Structure
+```text
 DRDiff/
 ├── datasets.py             # Data preprocessing
 ├── diffusion/
@@ -17,6 +18,7 @@ DRDiff/
 │   └── DRDiff_model.py     # DRDiff trainer
 ├── main.py                 # Model training
 └── eval.py                 # Model evaluation and downscaling
+
 
 # Citation
 If you find this work useful, please cite:
